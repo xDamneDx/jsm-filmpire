@@ -24,9 +24,9 @@ export default makeStyles((theme) => ({
       width: drawerWidth,
       flexShrink: '0',
     },
-    drawerPaper: {
-      width: drawerWidth,
-    },
+  },
+  drawerPaper: {
+    width: drawerWidth,
   },
   linkButton: {
     '&:hover': {
